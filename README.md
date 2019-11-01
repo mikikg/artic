@@ -6,3 +6,6 @@ Using internal HW timers for jitter-free operation.
 ![alt text](https://github.com/mikikg/artic/blob/master/doc/artic.jpg)
 
 ![alt text](https://github.com/mikikg/artic/blob/master/doc/artic-sch.png)
+
+Check also ARCUT - Programmable Stepper Motor Controller project based on same HW setup with additional programable options:
+https://www.youtube.com/watch?v=xA_-619ie-4
